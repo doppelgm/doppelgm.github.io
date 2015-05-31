@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 클럽 정보
 Permalink: /Clubs/
 ---
