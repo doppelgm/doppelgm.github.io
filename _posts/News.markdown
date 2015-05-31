@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 뉴스
 permalink: /News/
 Date: 2015-05-29
